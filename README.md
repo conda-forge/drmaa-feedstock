@@ -1,5 +1,5 @@
-About python-drmaa
-==================
+About drmaa
+===========
 
 Home: https://github.com/pygridtools/drmaa-python
 
@@ -20,28 +20,28 @@ Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-f
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/python-drmaa/badges/version.svg)](https://anaconda.org/conda-forge/python-drmaa)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/python-drmaa/badges/downloads.svg)](https://anaconda.org/conda-forge/python-drmaa)
+Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/drmaa/badges/version.svg)](https://anaconda.org/conda-forge/drmaa)
+Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/drmaa/badges/downloads.svg)](https://anaconda.org/conda-forge/drmaa)
 
-Installing python-drmaa
-=======================
+Installing drmaa
+================
 
-Installing `python-drmaa` from the `conda-forge` channel can be achieved by adding `conda-forge` to your channels with:
+Installing `drmaa` from the `conda-forge` channel can be achieved by adding `conda-forge` to your channels with:
 
 ```
 conda config --add channels conda-forge
 ```
 
-Once the `conda-forge` channel has been enabled, `python-drmaa` can be installed with:
+Once the `conda-forge` channel has been enabled, `drmaa` can be installed with:
 
 ```
-conda install python-drmaa
+conda install drmaa
 ```
 
-It is possible to list all of the versions of `python-drmaa` available on your platform with:
+It is possible to list all of the versions of `drmaa` available on your platform with:
 
 ```
-conda search python-drmaa --channel conda-forge
+conda search drmaa --channel conda-forge
 ```
 
 
@@ -80,17 +80,17 @@ Terminology
                   produce the finished article (built conda distributions)
 
 
-Updating python-drmaa-feedstock
-===============================
+Updating drmaa-feedstock
+========================
 
-If you would like to improve the python-drmaa recipe or build a new
+If you would like to improve the drmaa recipe or build a new
 package version, please fork this repository and submit a PR. Upon submission,
 your changes will be run on the appropriate platforms to give the reviewer an
 opportunity to confirm that the changes result in a successful build. Once
 merged, the recipe will be re-built and uploaded automatically to the
 `conda-forge` channel, whereupon the built conda packages will be available for
 everybody to install and use from the `conda-forge` channel.
-Note that all branches in the conda-forge/python-drmaa-feedstock are
+Note that all branches in the conda-forge/drmaa-feedstock are
 immediately built and any created packages are uploaded, so PRs should be based
 on branches in forks and branches in the main repository should only be used to
 build distinct package versions.

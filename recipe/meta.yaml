@@ -1,7 +1,7 @@
 {% set version = "0.7.6" %}
 
 package:
-  name: python-drmaa
+  name: drmaa
   version: {{ version }}
 
 source:
