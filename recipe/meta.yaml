@@ -1,4 +1,4 @@
-{% set version = "0.7.7" %}
+{% set version = "0.7.8" %}
 
 package:
   name: drmaa
@@ -7,7 +7,7 @@ package:
 source:
   fn: drmaa-{{ version }}.tar.gz
   url: https://pypi.io/packages/source/d/drmaa/drmaa-{{ version }}.tar.gz
-  md5: 2a252032b9b1b49b7f93bc38b987f6df
+  md5: e3bdd19d7966ea8d33c9e9f36e378edc
 
 build:
   number: 0
