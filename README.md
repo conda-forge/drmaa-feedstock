@@ -14,7 +14,7 @@ Summary: Python wrapper around the C DRMAA library.
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/python-drmaa-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/python-drmaa-feedstock)
+All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/drmaa-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/drmaa-feedstock)
 
 Current release info
 ====================
