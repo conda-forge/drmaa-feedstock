@@ -7,7 +7,7 @@ package:
 source:
   fn: drmaa-{{ version }}.tar.gz
   url: https://pypi.io/packages/source/d/drmaa/drmaa-{{ version }}.tar.gz
-  md5: e3bdd19d7966ea8d33c9e9f36e378edc
+  sha256: 9dc05f1e2c7a56dc0be4065642c46d26c334f6c30d63d0fc534defeac502802b
 
 build:
   number: 0
