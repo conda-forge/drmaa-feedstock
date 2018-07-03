@@ -14,12 +14,15 @@ Summary: Python wrapper around the C DRMAA library.
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/drmaa-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/drmaa-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/python-drmaa-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/python-drmaa-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/drmaa/badges/version.svg)](https://anaconda.org/conda-forge/drmaa)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/drmaa/badges/downloads.svg)](https://anaconda.org/conda-forge/drmaa)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-drmaa-green.svg)](https://anaconda.org/conda-forge/drmaa) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/drmaa.svg)](https://anaconda.org/conda-forge/drmaa) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/drmaa.svg)](https://anaconda.org/conda-forge/drmaa) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/drmaa.svg)](https://anaconda.org/conda-forge/drmaa) |
 
 Installing drmaa
 ================
