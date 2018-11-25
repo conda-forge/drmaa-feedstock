@@ -15,7 +15,7 @@ Current build status
 ====================
 
 All platforms:
-[![noarch](https://img.shields.io/circleci/project/github/conda-forge/drmaa-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/drmaa-feedstock)
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/python-drmaa-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/python-drmaa-feedstock)
 
 Current release info
 ====================
